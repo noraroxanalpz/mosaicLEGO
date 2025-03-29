@@ -1,7 +1,7 @@
 ¿
 # LEGO Mosaic Maker in Python
 #Esta es una modificacion al README Nora Roxana Lopez
-
+Nueva prueba tarea dr. Millan
 This project is an alternative to the official LEGO Mosaic Maker service ([LEGO Mosaic Maker](https://www.lego.com/es-us/product/mosaic-maker-40179)), which allows converting images into LEGO-style mosaics. The program is written in Python and offers great flexibility, not only in the number of colors used in the mosaic but also in its dimensions.
 
 ## Description
